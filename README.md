@@ -8,7 +8,9 @@ Power BI dashboard analysing e-commerce customers, orders, order items, payments
 
 ![Overview](Screenshots/1.Overview.png)
 
+![Product and Profit](Screenshots/2.Product%20and%20profit.png)
 
+![Year Comparison](Screenshots/3.Year%20comparison.png)
 
 [View full dashboard PDF](sales%20project.pdf)
 
